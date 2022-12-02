@@ -5,6 +5,7 @@ const About = () => {
     <div>
       
       <h1>this is about pages</h1>
+      <h2>this is mero stock</h2>
     </div>
   )
 }
