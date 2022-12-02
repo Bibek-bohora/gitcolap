@@ -8,6 +8,8 @@ const Home = () => {
      <a href="/about">About</a>
     <a href="login">Login</a> 
     <a href="/service">Service</a>
+    <h1>
+    hey bibek i am sending u htis project</h1>
     </div>
   )
 }
